@@ -1,0 +1,140 @@
+{
+  "upstream_repository": "https://github.com/PC2005-cloud/dsh-pet",
+  "source_root": "dsh-pet/assets/webm",
+  "rows": {
+    "idle": {
+      "source": "待机呼吸休闲.webm",
+      "timestamps": [
+        0.5,
+        1.2,
+        1.9,
+        2.6,
+        3.3,
+        4.0
+      ],
+      "mirrored": false
+    },
+    "running-right": {
+      "source": "原地左转奔跑.webm",
+      "timestamps": [
+        1.82,
+        2.16,
+        2.5,
+        2.84,
+        3.18,
+        3.52,
+        3.86,
+        4.2
+      ],
+      "mirrored": true
+    },
+    "running-left": {
+      "source": "原地左转奔跑.webm",
+      "timestamps": [
+        1.82,
+        2.16,
+        2.5,
+        2.84,
+        3.18,
+        3.52,
+        3.86,
+        4.2
+      ],
+      "mirrored": false
+    },
+    "waving": {
+      "source": "点击回应-元气挥手.webm",
+      "timestamps": [
+        1.1,
+        1.75,
+        2.4,
+        3.05
+      ],
+      "mirrored": false
+    },
+    "jumping": {
+      "source": "点击回应-开心跃动.webm",
+      "timestamps": [
+        1.1,
+        1.7,
+        2.3,
+        2.9,
+        3.5
+      ],
+      "mirrored": false
+    },
+    "failed": {
+      "source": "原地重力下蹲压缩.webm",
+      "timestamps": [
+        2.35,
+        2.7,
+        3.05,
+        3.4,
+        3.75,
+        4.1,
+        4.45,
+        4.8
+      ],
+      "mirrored": false
+    },
+    "waiting": {
+      "source": "东张西望.webm",
+      "timestamps": [
+        0.8,
+        1.65,
+        2.5,
+        3.35,
+        4.2,
+        5.05
+      ],
+      "mirrored": false
+    },
+    "running": {
+      "source": "写代码.webm",
+      "timestamps": [
+        0.8,
+        1.65,
+        2.5,
+        3.35,
+        4.2,
+        5.05
+      ],
+      "mirrored": false
+    },
+    "review": {
+      "source": "工作状态-清点归档.webm",
+      "timestamps": [
+        0.8,
+        1.65,
+        2.5,
+        3.35,
+        4.2,
+        5.05
+      ],
+      "mirrored": false
+    },
+    "look-directions": {
+      "source": "小幅度原地360度旋转展示.webm",
+      "timestamps": [
+        1.36,
+        1.48,
+        1.6,
+        1.7200000000000002,
+        1.84,
+        1.96,
+        2.08,
+        2.2,
+        2.3200000000000003,
+        2.4400000000000004,
+        2.56,
+        2.6799999999999997,
+        2.8,
+        2.92,
+        3.04,
+        3.16
+      ],
+      "mirrored": false,
+      "note": "Existing continuous 360-degree source animation; no generated or redrawn poses."
+    }
+  }
+}
