@@ -1,6 +1,6 @@
-# Blue Whale Maid — Codex Pet
+# 大肥鱼 — Codex Pet
 
-一个适用于 Codex 的蓝鲸小女仆动画宠物，由 `dsh-pet` 项目内已有的透明动画素材转换而成。
+一个适用于 Codex 的大肥鱼pet，由 `dsh-pet` 项目内已有的透明动画素材转换而成。
 
 ![Animation contact sheet](contact-sheet.png)
 
@@ -37,4 +37,3 @@
 - 展示、介绍或分发二创作品时，必须附上原作者 GitHub 地址：<https://github.com/PC2005-cloud/dsh-pet>
 
 详情见 [NOTICE.md](NOTICE.md) 以及原项目当前的许可说明。
-
